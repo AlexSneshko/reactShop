@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alexsneshko.github.io/reactShop/static/css/main.80c80442.css",
+    "main.js": "/alexsneshko.github.io/reactShop/static/js/main.59abe45d.js",
+    "index.html": "/alexsneshko.github.io/reactShop/index.html",
+    "main.80c80442.css.map": "/alexsneshko.github.io/reactShop/static/css/main.80c80442.css.map",
+    "main.59abe45d.js.map": "/alexsneshko.github.io/reactShop/static/js/main.59abe45d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c80442.css",
+    "static/js/main.59abe45d.js"
+  ]
+}
